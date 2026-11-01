@@ -1,0 +1,22 @@
+{
+  "wheel_id": 639,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-151",
+  "project": "bathroom-renovations-melbourne-red-flags-4988d3653587e6b920f",
+  "parent_t1_ref": "bathrenovationmelbourne-011",
+  "node_role": "buffer",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne red flags",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/bathroom-renovations-melbourne-red-flags-4988d3653587e6b920f/",
+  "tier": "T2",
+  "writeback_nonce": "a4772e3ccf31b4ca",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/bathroom-renovations-melbourne-011/",
+      "anchor": "Bathroom Renovations Melbourne: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
